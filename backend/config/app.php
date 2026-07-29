@@ -90,6 +90,7 @@ return [
     // and shared to the React frontend via HandleInertiaRequests.
     'available_locales' => [
         'en' => 'English',
+        'zh' => '简体中文',
         'pl' => 'Polski',
         'tr' => 'Türkçe',
         'de' => 'Deutsch',

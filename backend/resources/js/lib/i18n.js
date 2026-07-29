@@ -46,6 +46,7 @@ export function setTimezone(tz) {
 // the code itself, so adding a locale to config/app.php just works.
 const BCP47 = {
     en: 'en-GB',
+    zh: 'zh-CN',
     pl: 'pl-PL',
     tr: 'tr-TR',
     vi: 'vi-VN',
